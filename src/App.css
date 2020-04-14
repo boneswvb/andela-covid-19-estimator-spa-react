@@ -1,0 +1,37 @@
+.header {
+	display: flex;
+	flex-direction: row;
+}
+
+.name {
+	width: 50%;
+}
+
+.contact {
+	width: 50%;
+}
+
+input {
+	border: blue 2px solid;
+	border-radius: 5px;
+}
+
+select {
+	border: blue 2px solid;
+	border-radius: 5px;
+}
+
+label {
+  padding: 10px;
+}
+
+button {
+	border: blue 4px solid;
+	border-radius: 15px;
+	border-bottom: none;
+}
+
+img {
+	width: auto;
+	height: 150px;
+}
