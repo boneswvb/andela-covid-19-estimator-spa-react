@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/andela-covid-19-estimator-spa-react/static/css/main.5f57218f.chunk.css",
+    "main.js": "/andela-covid-19-estimator-spa-react/static/js/main.17f52835.chunk.js",
+    "main.js.map": "/andela-covid-19-estimator-spa-react/static/js/main.17f52835.chunk.js.map",
+    "runtime-main.js": "/andela-covid-19-estimator-spa-react/static/js/runtime-main.3d6fcddd.js",
+    "runtime-main.js.map": "/andela-covid-19-estimator-spa-react/static/js/runtime-main.3d6fcddd.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/andela-covid-19-estimator-spa-react/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.f63eec51.chunk.js": "/andela-covid-19-estimator-spa-react/static/js/2.f63eec51.chunk.js",
+    "static/js/2.f63eec51.chunk.js.map": "/andela-covid-19-estimator-spa-react/static/js/2.f63eec51.chunk.js.map",
+    "index.html": "/andela-covid-19-estimator-spa-react/index.html",
+    "precache-manifest.f347c922a1c02ab2ccabd00c7965cbae.js": "/andela-covid-19-estimator-spa-react/precache-manifest.f347c922a1c02ab2ccabd00c7965cbae.js",
+    "service-worker.js": "/andela-covid-19-estimator-spa-react/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/andela-covid-19-estimator-spa-react/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.5f57218f.chunk.css.map": "/andela-covid-19-estimator-spa-react/static/css/main.5f57218f.chunk.css.map",
+    "static/js/2.f63eec51.chunk.js.LICENSE.txt": "/andela-covid-19-estimator-spa-react/static/js/2.f63eec51.chunk.js.LICENSE.txt",
+    "static/media/wim.jpg": "/andela-covid-19-estimator-spa-react/static/media/wim.79d5114f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d6fcddd.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.f63eec51.chunk.js",
+    "static/css/main.5f57218f.chunk.css",
+    "static/js/main.17f52835.chunk.js"
+  ]
+}
